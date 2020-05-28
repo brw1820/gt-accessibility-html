@@ -24,6 +24,8 @@ Clone the repository and proceed to run the index.html file in your browser.
 
 This HTML file provides the best practices for accessibility in programming.
 
+![Test Application](./Horiseon1.png)
+![Test Application](./Horiseon2.png)
 
 ## Credits
 
