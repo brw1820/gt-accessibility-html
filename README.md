@@ -19,6 +19,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 Clone the repository found at:
 https://github.com/brw1820/gt-accessibility-html
+
 https://brw1820.github.io/gt-accessibility-html/
 
 Proceed to run the index.html file in your browser.
